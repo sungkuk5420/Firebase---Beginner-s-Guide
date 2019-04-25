@@ -19,3 +19,8 @@ firebase init hosting
 ```
 firebase serve
 ```
+
+### Firebase 베포
+```
+firebase deploy
+```
